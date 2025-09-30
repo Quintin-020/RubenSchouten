@@ -1,0 +1,4 @@
+DFS — FICTIEF
+- DFS-N: \\amerijck.local\\files\\data
+- DFS-R: 2-way hub-and-spoke, staging 4GB, RDC enabled
+- NTFS/share: least privilege, CREATOR OWNER on subfolders

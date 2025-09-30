@@ -1,0 +1,2 @@
+#introductions
+Fictieve persona (OSINT L9) met focus op Windows Server beheer (AD, DHCP, DNS, GPO, DFS). Lab-notities staan op de microsite. Label: FICTIEF/EDUCATIEF.

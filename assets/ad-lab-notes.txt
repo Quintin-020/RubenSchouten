@@ -1,0 +1,6 @@
+AD DS LAB — FICTIEF
+- Forest: amerijck.local
+- DC01/DC02: 2019/2022, Global Catalogs
+- Sites & Subnets: 192.168.20.0/24, 192.168.70.0/24
+- Repadmin basics: repadmin /replsummary, /showrepl, /syncall
+- OU/GPO: baseline hardening, loopback (merge) voor IT-lab

@@ -1,0 +1,5 @@
+DHCP + DNS — FICTIEF
+- DHCP failover: hot-standby 80/20
+- Authorize DHCP in AD
+- DNS: A/PTR records, scavenging, conditional forwarders
+- Scope-opties: 003, 006, 015, 051
